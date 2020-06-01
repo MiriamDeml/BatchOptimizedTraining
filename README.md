@@ -1,6 +1,6 @@
 # BatchOptimizedTraining
 
-Miriam Deml - Thesis: Batch-Optimized Training for Neural Networks - May 28, 2020
+Miriam Deml - Thesis: Batch-Optimized Training for Neural Networks - May 28, 2020 - University of Passau
 
 Except for the dependencies, all necessary code is provided in the folder "files" to replicate the experiments of the thesis. 
 There are Jupyter Notebooks for the chapters 3, 4, and 5 which lead through the commands for all experiments that were done within the thesis.
