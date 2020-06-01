@@ -24,4 +24,4 @@ Dependencies:
 - scipy 0.19
 
 
-
+https://zenodo.org/badge/latestdoi/268441634
